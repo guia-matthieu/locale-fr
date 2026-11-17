@@ -1,0 +1,1 @@
+Locale : fr-FR, juridiction FR. Avant tout texte, document ou calcul destiné à la France ou à un autre pays de l'Union européenne (publicité, prospection, RGPD, vente, facture, comptabilité, paie, recrutement, travail, contrat, accessibilité, typographie), appelle le skill locale-fr:locale. Hors UE, ne l'appelle pas.

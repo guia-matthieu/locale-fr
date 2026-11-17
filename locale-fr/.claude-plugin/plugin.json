@@ -1,0 +1,12 @@
+{
+  "name": "locale-fr",
+  "version": "0.3.0",
+  "description": "Adapte la sortie des plugins Claude aux règles françaises. Version publique : cadre, hook de routage et paquet typographie ; paquets juridiques en relecture.",
+  "license": "MIT",
+  "author": {
+    "name": "Guia (Matthieu Crédou)",
+    "url": "https://guia.fr"
+  },
+  "homepage": "https://guia.fr/locale-fr/",
+  "repository": "https://github.com/guia-matthieu/locale-fr"
+}

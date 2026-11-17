@@ -1,0 +1,15 @@
+{
+  "name": "guia",
+  "owner": {
+    "name": "Guia",
+    "url": "https://guia.fr"
+  },
+  "plugins": [
+    {
+      "name": "locale-fr",
+      "source": "./locale-fr",
+      "description": "Adapte la sortie des plugins Claude aux règles françaises : formats, typographie, signalement des usages américains. Paquets juridiques en relecture."
+    }
+  ],
+  "description": "Plugins de Guia pour adapter Claude aux règles françaises."
+}
